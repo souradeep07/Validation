@@ -59,3 +59,8 @@ function validateTextbox(){
         return false;
     }
 }
+
+// ***  REDIRECTING IN JAVASCRIPT USING WINDOW OBJECT   ***
+function rdirect(){
+    window.location.assign("http://www.google.com");
+}
